@@ -89,3 +89,12 @@ E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcPr
 E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\obj\Debug\scrcProiect.csproj.CopyComplete
 E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\obj\Debug\scrcProiect.dll
 E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\obj\Debug\scrcProiect.pdb
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\EntityFramework.dll
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\EntityFramework.SqlServer.dll
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\System.Data.SQLite.dll
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\System.Data.SQLite.EF6.dll
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\System.Data.SQLite.Linq.dll
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\EntityFramework.xml
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\EntityFramework.SqlServer.xml
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\System.Data.SQLite.xml
+E:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\SEM2\SCRC\scrc\scrcProiect\scrcProiect\bin\System.Data.SQLite.dll.config
