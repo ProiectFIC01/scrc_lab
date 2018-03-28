@@ -15,3 +15,8 @@ upon new action in controller add appropriate view(rclick add view) select templ
 wifi cmrssi -> cmrssiB414
 prop and double tab to expand properties, also check annotations in db class
 add a database folder then create a database in the sqlite studio. Go back to VS add the file 
+create a table in database
+add a new controller(car controller)
+add method create
+add method edit
+
